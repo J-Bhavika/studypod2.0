@@ -10,3 +10,5 @@ s.n      date       today's task                       file name           probl
                     c++ typecasting and reference 
                     operator precedence and 
                     manipulators
+2.       30/7/21    Loops                               loop.cpp 
+3.       31/7/21    Pointers                            pointer.cpp
