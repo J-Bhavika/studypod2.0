@@ -13,4 +13,6 @@ s.n      date       today's task                       file name            prob
 2.       30/7/21    Loops                               loop.cpp 
 3.       31/7/21    Pointers                            pointer.cpp
 4.       1/08/21    array,array and pointer             array.cpp
-                                                      array,pointer.cpp
+                                                        Array,pointer.cpp
+5.       2/08/21    struct, union, enums                struct.cpp
+6.       3/08/21    functions                           func.cpp                                       
