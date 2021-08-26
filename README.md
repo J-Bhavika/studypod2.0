@@ -19,3 +19,5 @@ s.n      date       today's task                       file name            prob
 7.       4/08/21    recursions
 8.       5/08/21    function overloading
 9.       6/08/21    object oriented programming
+10.      7/08/21    classes, public and private modifiers
+11.      8/08/21    member function
