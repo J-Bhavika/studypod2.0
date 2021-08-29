@@ -28,5 +28,8 @@ s.n      date       today's task                       file name            prob
 15.      12/08/21   object arrays and arguments
 16.      13/08/21   friend functions
 17.      14/08/21   friend in class
-
+18.      15/08/21   constructors
+19.      16/08/21   parameterised and default constructors
+20.      17/08/21     -
+21.      18/08/21   constructor overloading
 
