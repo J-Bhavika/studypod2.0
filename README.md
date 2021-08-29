@@ -16,8 +16,17 @@ s.n      date       today's task                       file name            prob
                                                         Array,pointer.cpp
 5.       2/08/21    struct, union, enums                struct.cpp
 6.       3/08/21    functions                           func.cpp                                       
-7.       4/08/21    recursions
+7.       4/08/21    recursions                          recusions.docx
 8.       5/08/21    function overloading
 9.       6/08/21    object oriented programming
 10.      7/08/21    classes, public and private modifiers
 11.      8/08/21    member function
+12.      9/08/21      -
+13.      10/08/21   memory allocation and using of 
+                     arrays in class
+14.      11/08/21   static data members
+15.      12/08/21   object arrays and arguments
+16.      13/08/21   friend functions
+17.      14/08/21   friend in class
+
+
