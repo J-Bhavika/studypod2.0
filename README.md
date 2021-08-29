@@ -25,11 +25,12 @@ s.n      date       today's task                       file name            prob
 9.       3/08/21    functions                           func.cpp                                       
 10.      4/08/21    recursions                          recusions.docx
 11.      5/08/21    function overloading
-12.      6/08/21    object oriented programming
-13.      7/08/21    classes, public and private modifiers
-14.      8/08/21    member function
-15.      9/08/21      -
-16.      10/08/21   memory allocation and using of 
+12.      6/08/21    object oriented programming        
+13.      7/08/21    classes, public and                 class.docx
+14.                  private modifiers
+15.      8/08/21    nesting of member function
+16.      9/08/21      -
+17.      10/08/21   memory allocation and using of 
                      arrays in class
 17.      11/08/21   static data members
 18.      12/08/21   object arrays and arguments
