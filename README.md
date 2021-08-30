@@ -43,7 +43,7 @@ s.n      date       today's task                       file name            prob
 25.      19/08/21   constructors with default arguments
 26.      20/08/21   dynamic Initialization of object using constructors
 27.      21/08/21   copy constructors
-28.      22/08/21     -
-29.      23/08/21   destructors
-30.      24/08/21   basic of inheritance
-31.     
+
+
+
+
